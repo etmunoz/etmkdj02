@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{angular-bootstrap-calendar-DefinitelyTyped, angularjs-DefinitelyTyped, bootstrap-DefinitelyTyped, bootstrap-notify-DefinitelyTyped, bootstrap-slider-DefinitelyTyped, cordova-ionic-DefinitelyTyped, cordova-plugin-email-composer-DefinitelyTyped, ionic-DefinitelyTyped, mysql-DefinitelyTyped}" />
+  </component>
+</project>
